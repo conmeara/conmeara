@@ -18,6 +18,7 @@ AI intern at Deloitte.
 - 🎁 **[Year-End Wrap for Airtable](https://github.com/conmeara/airtable-year-end-wrap)** - Spotify Wrapped-style recap for teams using Airtable, with animated slides and personalized work stats.
 - 🌴 **[PTO Planner](https://github.com/conmeara/pto-planner)** - year-at-a-glance PTO planner with balance tracking, holiday imports, and gap-filling suggestions.
 - 🧬 **[Prompt Optimizer](https://github.com/conmeara/prompt-optimizer)** - DSPy/GEPA playground for evolving prompts through A/B choices when you know the better answer before you know the better prompt.
+- ✍️ **[Writer's Lens](https://github.com/conmeara/writers-lens)** - writing experiment that visualizes cadence, repetition, and structure so you can see the patterns in your prose.
 - 📬 **[Claude Inbox Zero](https://github.com/conmeara/claude-inbox-zero)** - terminal email client where Claude drafts replies in the background while you review the queue.
 
 ## In Development & Half-Baked Ideas
