@@ -16,6 +16,7 @@ AI intern at Deloitte.
 
 ## Experiments
 
+- 🎭 **[UI Backlot](https://github.com/conmeara/ui-backlot)** - recreates software UIs as editable HTML/HyperFrames scenes so agents can make polished demo videos instead of humans recording screens.
 - 🎁 **[Year-End Wrap for Airtable](https://github.com/conmeara/airtable-year-end-wrap)** - Spotify Wrapped-style recap for teams using Airtable, with animated slides and personalized work stats.
 - 🌴 **[PTO Planner](https://github.com/conmeara/pto-planner)** - year-at-a-glance PTO planner with balance tracking, holiday imports, and gap-filling suggestions.
 - 🧬 **[Prompt Optimizer](https://github.com/conmeara/prompt-optimizer)** - DSPy/GEPA playground for evolving prompts through A/B choices when you know the better answer before you know the better prompt.
