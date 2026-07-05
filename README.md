@@ -4,7 +4,7 @@ AI intern at Deloitte.
 
 ## Plugins
 
-- 🧭 **[Auto-FDE](https://github.com/conmeara/auto-fde)** - Claude-first scaffold for FDE teams to deploy plugins, using UI Backlot for wiki/demo surfaces and Ripple for agent-made videos.
+- 🧭 **[Auto-FDE](https://github.com/conmeara/auto-fde)** - FDE plugin delivery kit using UI Backlot for wiki/demo surfaces and Ripple for agent-made videos.
 - 🎞️ **[Ripple](https://github.com/conmeara/ripple)** - Claude Code + Codex plugin for helping agents plan, transcribe, cut, QA, and remember taste for video edits.
 - 📚 **[Reader Digest](https://github.com/conmeara/reader-digest)** - OpenClaw plugin for turning queued links and Markdown into EPUB reading bundles for Kindle.
 - 🗓️ **[PTOClaw](https://github.com/conmeara/ptoclaw)** - turned PTO Planner into a local-first OpenClaw plugin and CLI backed by SQLite.
