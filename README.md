@@ -2,16 +2,17 @@
 
 AI intern at Deloitte.
 
-## Applications
+## Plugins
 
-- 🎬 **[Ripple](https://github.com/conmeara/ripple)** - open-source desktop app for making motion graphics locally with HyperFrames, AI chat, frame comments, revisions, and export.
-- 📋 **[Nozzle](https://github.com/conmeara/nozzle)** - native macOS clipboard and context manager for building better AI prompts from copied text, files, folders, screenshots, and saved instructions.
-
-## OpenClaw & Agent Tools
-
+- 🎞️ **[Ripple](https://github.com/conmeara/ripple)** - Claude Code + Codex plugin for helping agents plan, transcribe, cut, QA, and remember taste for video edits.
 - 📚 **[Reader Digest](https://github.com/conmeara/reader-digest)** - OpenClaw plugin for turning queued links and Markdown into EPUB reading bundles for Kindle.
 - 🗓️ **[PTOClaw](https://github.com/conmeara/ptoclaw)** - turned PTO Planner into a local-first OpenClaw plugin and CLI backed by SQLite.
 - 🗃️ **[Personal DB Plugin](https://github.com/conmeara/personal-db-plugin)** - local SQLite tooling for agents to store and query personal data safely.
+
+## Applications
+
+- 🎬 **[Ripple App](https://github.com/conmeara/ripple-app)** - open-source desktop app for making motion graphics locally with HyperFrames, AI chat, frame comments, revisions, and export.
+- 📋 **[Nozzle](https://github.com/conmeara/nozzle)** - native macOS clipboard and context manager for building better AI prompts from copied text, files, folders, screenshots, and saved instructions.
 
 ## Experiments
 
@@ -23,6 +24,7 @@ AI intern at Deloitte.
 
 ## In Development & Half-Baked Ideas
 
+- 🗂️ **[Vault](https://github.com/conmeara/vault)** - agent-maintained Markdown notes vault with setup, imports, inbox sweeps, and source-backed durable memory.
 - 🚫 **[Zero Six](https://github.com/conmeara/zero-six)** - Chrome extension and macOS companion app for hiding distracting feeds, stories, recommendations, and notifications.
 - 📷 **[OCR App](https://github.com/conmeara/ocr-app)** - iOS scanner for turning handwritten notes, journals, and whiteboards into Markdown.
 - 🖥️ **[Amber](https://github.com/conmeara/amber)** - macOS display-control experiment for brightness and volume.
